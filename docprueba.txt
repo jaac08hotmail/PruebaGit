@@ -1,0 +1,15 @@
+prueba 1
+
+git init
+
+git status
+
+git add --all
+
+git commit -m "Commit inicial"
+
+control i
+
+esc
+:wq
+git branch
